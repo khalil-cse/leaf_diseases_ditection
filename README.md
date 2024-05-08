@@ -1,2 +1,2 @@
 # leaf_diseases_ditection
-we can do ditect two types of leaf
+we can do detect two types of leaf
